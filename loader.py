@@ -34,7 +34,7 @@ if option == "1":
 
 
 
-    url = "https://media.istockphoto.com/id/537442618/photo/business-concept.jpg?s=612x612&w=0&k=20&c=7j3hrkdi3FbyX1xWrRIOKEXNcdTYdi5kV-PVdFZBLNM="  # Replace with your actual file URL
+    url = "https://media.istockphoto.com/id/537442618/photo/business-concept.jpg?s=612x612&w=0&k=20&c=7j3hrkdi3FbyX1xWrRIOKEXNcdTYdi5kV-PVdFZBLNM="  
     save_path = "sim.jpg"
 
 
